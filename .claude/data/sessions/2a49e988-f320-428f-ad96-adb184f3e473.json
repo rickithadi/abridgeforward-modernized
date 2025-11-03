@@ -1,0 +1,11 @@
+{
+  "session_id": "2a49e988-f320-428f-ad96-adb184f3e473",
+  "prompts": [
+    "Uncaught TypeError: can't access property \"id\", E is undefined\n    mh https://abridgeforward-modernized-578njtfzc-joshua-roches-projects.vercel.app/assets/index-B57JFu7J.js:49\n    Qi https://abridgeforward-modernized-578njtfzc-joshua-roches-projects.vercel.app/assets/index-B57JFu7J.js:48\n    cc https://abridgeforward-modernized-578njtfzc-joshua-roches-projects.vercel.app/assets/index-B57JFu7J.js:48\n    Cd https://abridgeforward-modernized-578njtfzc-joshua-roches-projects.vercel.app/assets/index-B57JFu7J.js:48\n    yo https://abridgeforward-modernized-578njtfzc-joshua-roches-projects.vercel.app/assets/index-B57JFu7J.js:48\n    ly https://abridgeforward-modernized-578njtfzc-joshua-roches-projects.vercel.app/assets/index-B57JFu7J.js:48\n    Nc https://abridgeforward-modernized-578njtfzc-joshua-roches-projects.vercel.app/assets/index-B57JFu7J.js:48\n    io https://abridgeforward-modernized-578njtfzc-joshua-roches-projects.vercel.app/assets/index-B57JFu7J.js:48\n    _o https://abridgeforward-modernized-578njtfzc-joshua-roches-projects.vercel.app/assets/index-B57JFu7J.js:48\n    Tt https://abridgeforward-modernized-578njtfzc-joshua-roches-projects.vercel.app/assets/index-B57JFu7J.js:25\nindex-B57JFu7J.js:49:49933\n\n\u200b\n\n",
+    "/var/folders/gy/574p89h16mj752hpgdk6_q880000gn/T/TemporaryItems/NSIRD_screencaptureui_TCMqKp/Screenshot\\ 2025-11-02\\ at\\ 5.14.41\u202fPM.png [I",
+    "@agent-ui-designer-agent suggest improvements ",
+    "work on the about,services and employers pages. refer to crawled data",
+    "make sure the nav points to the right website(this site)",
+    "commit and push"
+  ]
+}
